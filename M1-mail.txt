@@ -1,0 +1,2 @@
+2026-11-19 08:10 UTC
+External sender impersonates supplier; asks finance to review an attachment. Delivered; no click telemetry.

@@ -1,0 +1,2 @@
+2026-11-20 10:30 UTC
+Sharing restriction applied. Download completion is not recorded. Audit retention is seven days; export requested.

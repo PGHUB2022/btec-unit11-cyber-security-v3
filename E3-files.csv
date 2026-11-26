@@ -1,0 +1,5 @@
+time_utc,account,host,event,path
+2026-11-18T09:02:00Z,payroll01,FS01,share_access,/records
+2026-11-18T09:05:00Z,payroll01,FS01,rename,/records/attendance.xlsx.locked
+2026-11-18T09:06:00Z,payroll01,FS01,rename,/records/register.csv.locked
+2026-11-18T09:07:00Z,payroll01,FS01,bulk_rename_alert,/records

@@ -1,0 +1,8 @@
+SIMULATED EVIDENCE E1 — Mail gateway export (UTC)
+2026-11-18 08:41:00
+From: IT Support <support@harbour-reset.example>
+To: payroll@harbour.example
+Subject: Urgent VPN password verification
+Body: Verify your password before 09:00 or your access will be disabled.
+Link displayed: https://harbour-reset.example/verify (fictional, non-operational)
+Gateway note: external sender; delivered. No click telemetry available.

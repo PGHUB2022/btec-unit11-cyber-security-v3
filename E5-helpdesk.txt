@@ -1,0 +1,5 @@
+SIMULATED EVIDENCE E5 — Helpdesk ticket
+2026-11-18 09:12 UTC: Tutor reports shared records inaccessible and filenames ending .locked.
+09:18 UTC: Payroll worker reports receiving urgent password email and recalls entering a password on an unfamiliar page. Statement not independently verified.
+09:30 UTC: IT technician opens incident record and begins evidence collection.
+No ransom demand, confirmed malware sample or outbound transfer record supplied.
